@@ -1,0 +1,11 @@
+{
+  "crossDomainList": [
+    "mini-game-1256826131.cos.ap-beijing.myqcloud.com",
+    "minigame-cdn.hrgame.com.cn",
+	"pvz2future.hrgame.com.cn",
+    "pvz2future-1256826131.cos.ap-beijing.myqcloud.com"
+  ],
+  "subpackages": {
+    "rootPath": "https://mg.hrgame.com.cn/game_egypt/uc/1.1.5"
+  }
+}
